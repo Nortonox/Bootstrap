@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+    background-image: url(arkaplan.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: 'Roboto', sans-serif;
+}
+
+.menu {
+    background-color: #30475e;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.menu .nav-link{
+    color: #dddddd;
+}
+
+.menu .nav-link:hover{
+    color: #f05454;
+}
+
+.footer{
+    height: 50px;
+    background-color: #30475e;
+    color: white;
+}
